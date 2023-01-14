@@ -1,8 +1,8 @@
-<h3 align="center">Haider Majid</h3>
 
-<h3 align="left">Mobile Application Developer</h3>
+<h2 align="center">Haider Majid</h2>
+
+<h3 align="Center">Mobile Application Developer</h3>
 <p align="left">
-<a href="https://instagram.com/hmajid.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmajid.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
