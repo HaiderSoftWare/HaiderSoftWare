@@ -1,4 +1,4 @@
-<h3 align="center">Mobile Application Developer</h3>
+<h3 align="center">Haider Majid</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidersoftware&show_icons=true&locale=en" alt="haidersoftware" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidersoftware&" alt="haidersoftware" /></p>
+
