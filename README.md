@@ -1,7 +1,7 @@
 
 <h1 align="center">Haider Majid</h1>
 
-<h2 align="Center">Mobile Application Developer</h2>
+<h3 align="Center">Mobile Application Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
